@@ -237,7 +237,8 @@
     }
 
     .floating-section {
-        right: 17%;
+        top:250px;
+        right: 15%;
     }
 
 }
@@ -358,6 +359,7 @@
     }
 
 }
+
 
 
 
