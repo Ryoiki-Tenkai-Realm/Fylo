@@ -27,7 +27,7 @@
 .section1 {
     margin: 10px;
     width: 330px;
-    height: 190px;
+    height: 205px;
     background-color:#1d2c67;
     border-radius: 10px;
     border-top-right-radius: 80px;
@@ -56,7 +56,7 @@
 .section2 {
     margin: 10px;
     width: 540px;
-    height: 180px;
+    height: 195px;
 }
 
 .floating-section {
@@ -76,7 +76,7 @@
 .sub-section3 {
     margin-top: 40px;
     width: 530px;
-    height: 145px;
+    height: 160px;
     background-color:#1d2c67;
     border-radius: 10px;
 }
@@ -358,4 +358,5 @@
     }
 
 }
+
 
