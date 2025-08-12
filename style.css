@@ -61,7 +61,7 @@
 
 .floating-section {
     position: absolute;
-    top: 270px;
+    top: 260px;
     right: 24%;
 }
 
@@ -260,8 +260,8 @@
     }
 
     .floating-section {
-        top: 35%;
-        right: 10%;
+        top: 30%;
+        right: 13%;
     }
 }
 
@@ -358,6 +358,7 @@
     }
 
 }
+
 
 
 
